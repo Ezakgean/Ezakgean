@@ -1,10 +1,6 @@
-<table align="center" bgcolor="#1f1f1f">
-  <tr>
-    <td align="center">
-      <img src="assets/banner-clean.png" alt="banner" width="900" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/banner-clean.png" alt="banner" width="900" />
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
