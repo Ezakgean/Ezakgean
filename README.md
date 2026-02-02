@@ -20,7 +20,7 @@
 
 ---
 
-## About Me / Sobre Mim
+## Sobre Mim / About Me
 
 | 🇧🇷 Português | 🇺🇸 English |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## What I Deliver / O Que Entrego
+## O Que Entrego / What I Deliver
 
 | 🇧🇷 Português | 🇺🇸 English |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Core Stack
+## Stack Principal / Core Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1f1f1f?logo=python&logoColor=white" alt="Python" />
@@ -64,7 +64,7 @@
 
 ---
 
-## Principles I Work By / Princípios
+## Princípios / Principles I Work By
 
 | 🇧🇷 Português | 🇺🇸 English |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Activity
+## Atividade / Activity
 
 <p align="center">
   <img src="assets/contributions.png" alt="GitHub contributions" width="920" />
@@ -88,27 +88,17 @@
 
 ---
 
-## GitHub Stats
+## Estatísticas do GitHub / GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezakgean&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezakgean&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Ezakgean&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezakgean&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezakgean&theme=tokyo-night&hide_border=true&area=true&cache_seconds=21600" alt="Activity graph" />
 </p>
 
 ---
 
-## Contact / Contato
+## 📁 Repositorios Publicos / Public Repositories
 
-| 🇧🇷 Português | 🇺🇸 English |
-|---|---|
-| LinkedIn: https://www.linkedin.com/in/ezequiel-gean-weber-8a1320199/ | LinkedIn: https://www.linkedin.com/in/ezequiel-gean-weber-8a1320199/ |
-| Email: ezakgean@gmail.com | Email: ezakgean@gmail.com |
-| Portfólio: https://ezequielgean.com.br | Portfolio: https://ezequielgean.com.br |
+<!-- REPOS:START -->
+- [`Activities`](https://github.com/Ezakgean/Activities) — Sem descricao. ⭐ 0 • Atualizado em 2026-02-02
+- [`Ezakgean`](https://github.com/Ezakgean/Ezakgean) — Sem descricao. ⭐ 0 • Atualizado em 2026-01-27
+<!-- REPOS:END -->
