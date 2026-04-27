@@ -99,6 +99,6 @@
 ## 📁 Repositorios Publicos / Public Repositories
 
 <!-- REPOS:START -->
-- [`Ezakgean`](https://github.com/Ezakgean/Ezakgean) — Sem descricao. ⭐ 0 • Atualizado em 2026-04-13
-- [`Activities`](https://github.com/Ezakgean/Activities) — Sem descricao. ⭐ 0 • Atualizado em 2026-04-09
+- [`Activities`](https://github.com/Ezakgean/Activities) — Sem descricao. ⭐ 0 • Atualizado em 2026-04-22
+- [`Ezakgean`](https://github.com/Ezakgean/Ezakgean) — Sem descricao. ⭐ 0 • Atualizado em 2026-04-20
 <!-- REPOS:END -->
